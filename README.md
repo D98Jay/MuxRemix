@@ -22,3 +22,6 @@ Color schemes are based on default MustardOS theme, with a different style. Colo
 |![MonoWhite](/preview/MonoWhite.png)        |![MonoBlack](/preview/MonoBlack.png)    |
 |![MonoGreen](/preview/MonoGreen.png)        |![Nightly](/preview/Nightly.png)        |
 |![TeamBlue](/preview/TeamBlue.png)          |![TeamRed](/preview/TeamRed.png)        |
+
+### Figma file
+If you want to make changes or create your own version, you can start with this [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing)
