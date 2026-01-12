@@ -15,6 +15,8 @@ I use icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme, as 
 ### Theme Alternatives
 Color schemes are based on default MustardOS theme, with a different style. Color constrast is boosted because the screen on these handheld is less vibrant than phone's screen.
 
+|Lighter                                     |Darker                                  |
+|:------------------------------------------:|:---------------------------------------|
 |![ClassicBright](/preview/ClassicBright.png)|![ClassicDark](/preview/ClassicDark.png)|
 |![MonoWhite](/preview/MonoWhite.png)        |![MonoBlack](/preview/MonoBlack.png)    |
 |![MonoGreen](/preview/MonoGreen.png)        |![Nightly](/preview/Nightly.png)        |
