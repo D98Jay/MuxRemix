@@ -7,6 +7,7 @@ MuOS's theme with standard layout. Based on OneTwo by bulkh.
 - [x] Bigger font size
 - [x] Not language depend
 - [x] Support all resolutions from MuOS
+
 *1280x720 resolution is optimized for handheld (TRIMUI Smart Pro), it may look too big for HDMI output.
 
 ### Icons and Console images
