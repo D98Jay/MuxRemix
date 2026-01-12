@@ -18,25 +18,25 @@ I use icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme, as 
 Color schemes are based on default MustardOS theme, with a different style. Color constrast is boosted because the screen on these handheld is less vibrant than phone's screen.
 
 ClassicBright (Gruvbox Light)
-![ClassicBright]()
+![ClassicBright](https://github.com/D98Jay/MuxRemix/blob/main/preview/ClassicBright.png)
 
 ClassicDark (Gruvbox Dark)
-![ClassicDark]()
+![ClassicDark](https://github.com/D98Jay/MuxRemix/blob/main/preview/ClassicDark.png)
 
 MonoWhite (LCD Light)
-![MonoWhite]()
+![MonoWhite](https://github.com/D98Jay/MuxRemix/blob/main/preview/MonoWhite.png)
 
 MonoBlack (OLED Dark)
-![MonoBlack]()
+![MonoBlack](https://github.com/D98Jay/MuxRemix/blob/main/preview/MonoBlack.png)
 
 MonoGreen (Retro Green)
-![MonoGreen]()
+![MonoGreen](https://github.com/D98Jay/MuxRemix/blob/main/preview/MonoGreen.png)
 
 Nightly
-![Nightly]()
+![Nightly](https://github.com/D98Jay/MuxRemix/blob/main/preview/Nightly.png)
 
 TeamBlue (Valt-Tec)
-![TeamBlue]()
+![TeamBlue](https://github.com/D98Jay/MuxRemix/blob/main/preview/TeamBlue.png)
 
 TeamRed (Crimson)
-![TeamRed]()
+![TeamRed](https://github.com/D98Jay/MuxRemix/blob/main/preview/TeamRed.png)
