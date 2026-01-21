@@ -18,9 +18,9 @@ Color schemes are based on default MustardOS theme, with a different style. Colo
 
 |Lighter                                     |Darker                                  |
 |:-------------------------------------------|:---------------------------------------|
-|![ClassicBright](/preview/ClassicBright.png)|![ClassicDark](/preview/ClassicDark.png)|
+|![ClassicBright](/preview/ClassicLight.png)|![ClassicDark](/preview/ClassicDark.png)|
 |![MonoWhite](/preview/MonoWhite.png)        |![MonoBlack](/preview/MonoBlack.png)    |
-|![MonoGreen](/preview/MonoGreen.png)        |![Nightly](/preview/Nightly.png)        |
+|![MonoGreen](/preview/GreenBoy.png)        |![Nightly](/preview/Nightly.png)        |
 |![TeamBlue](/preview/TeamBlue.png)          |![TeamRed](/preview/TeamRed.png)        |
 
 ### Figma file
