@@ -8,9 +8,9 @@ Not a fancy theme, just a clean design of muOS standard layout with custom color
 - [x] Optimal font size for each resolutions
 - [x] Not language depend
 
-|                                  |                                |                                |
-|:---------------------------------|:-------------------------------|:-------------------------------|
-|![Stock](/preview/layoutStock.png)|![Grid](/preview/layoutGrid.png)|![List](/preview/layoutCore.png)|
+|                                  |                                |                                      |
+|:---------------------------------|:-------------------------------|:-------------------------------------|
+|![Stock](/preview/layoutStock.png)|![Grid](/preview/layoutGrid.png)|![Console](/preview/layoutExplore.png)|
 
 ### Icons and Console images
 I use icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme, as this theme is based on. Big shout out to bulkh!
