@@ -16,14 +16,29 @@ Not a fancy theme, just a clean design of muOS standard layout with custom color
 I use icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme, as this theme is based on. Big shout out to bulkh!
 
 ### Theme Alternatives
-Color schemes are based on default MustardOS theme, with a different style. Scheme files is structured in very customizable way for new theme addition later on.
+There are 10 color schemes. Scheme files is structured in very customizable way for new color sheme addition later on.
 
 |Lighter                                     |Darker                                  |
 |:-------------------------------------------|:---------------------------------------|
 |![ClassicBright](/preview/ClassicLight.png) |![ClassicDark](/preview/ClassicDark.png)|
+|![MonoGreen](/preview/GreenBoy.png)         |![Mustard](/preview/Mustard.png)        |
 |![MonoWhite](/preview/MonoWhite.png)        |![MonoBlack](/preview/MonoBlack.png)    |
-|![MonoGreen](/preview/GreenBoy.png)         |![Nightly](/preview/Nightly.png)        |
+|![MonoPink](/preview/Pink.png)              |![Nightly](/preview/Nightly.png)        |
 |![TeamBlue](/preview/TeamBlue.png)          |![TeamRed](/preview/TeamRed.png)        |
 
-### Figma file
-If you want to make changes or create your own version, you can start with this [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing)
+### Theme structure
+If you want to make changes or create your own color shceme, this theme seperate color sheme and layout structure into different files (as muOS suggested). You can use this [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing) as a guide to create your version. Below is the file structure where to make changes.
+
+```txt
+...
+├── alternate
+│   └── {color}.ini        (Color schemes go here)
+...
+├── {resolution}
+│   ├── font
+│   │   └── default.bin    (Font file for specific resolution)
+│   ├── scheme
+│   │   └── default.ini    (General and listed layout)
+│   │   └── muxlaunch.ini  (Grid layout for main menu)
+│   │   └── muxlplore.ini  (Grid layout for explore)
+```
