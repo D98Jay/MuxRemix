@@ -11,12 +11,6 @@ Not a fancy theme, just a clean design of muOS standard layout with custom color
 - [x] Optimal font size for each resolutions
 - [x] Not language depend
 
-### Download
-|Release      |Theme version                                                     |
-|:------------|:-----------------------------------------------------------------|
-|Goose        |[v1.2.1](https://github.com/D98Jay/MuxRemix/releases/tag/v1.2.1)  |
-|Jacaranda    |Not ready!                                                        |
-
 ### Color scheme & structure
 
 There are 10 color schemes. Scheme files is structured in very customizable way for new color sheme addition later on.
@@ -46,3 +40,9 @@ If you want to make changes or create your own color shceme, this theme seperate
 ```
 
 Icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme. Big shout out to bulkh!
+
+### Download
+|Release      |Theme version                                                     |
+|:------------|:-----------------------------------------------------------------|
+|Goose        |[v1.2.1](https://github.com/D98Jay/MuxRemix/releases/tag/v1.2.1)  |
+|Jacaranda    |Not ready!                                                        |
