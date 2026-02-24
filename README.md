@@ -44,4 +44,4 @@ Icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme. Big shout
 |Release      |Theme version                                                     |
 |:------------|:-----------------------------------------------------------------|
 |Goose        |[v1.2.2](https://github.com/D98Jay/MuxRemix/releases/tag/v1.2.2)  |
-|Jacaranda    |Not ready!                                                        |
+|Jacaranda    |[v2.0](https://github.com/D98Jay/MuxRemix/releases/latest)        |
