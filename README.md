@@ -22,7 +22,7 @@ There are 10 color schemes. Scheme files is very customizable and easy to add ne
 |![ClassicBright](/preview/ClassicLight.png) |![MonoPink](/preview/Pink.png)          |                                        |
 |![MonoGreen](/preview/GreenBoy.png)         |![TeamBlue](/preview/TeamBlue.png)      |                                        |
 
-If you want to make changes or create your own color shceme, this theme seperate color sheme and layout structure into different files (as muOS suggested). You can use this [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing) as a guide to create your version. Below is the file structure where to make changes.
+To customize or create your own color scheme, the colors and layout are separated into different files (as muOS recommends). You can use the [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing) as a guide. Below is the file structure and where to make changes.
 
 ```txt
 ...
@@ -38,7 +38,9 @@ If you want to make changes or create your own color shceme, this theme seperate
 │   │   └── muxlplore.ini  (Grid layout for explore)
 ```
 
-Icons and images from [OneTwo](https://github.com/bulkh/OneTwo) theme. Big shout out to bulkh!
+Use this theme however you like, or treat it as a starting point for your own theme.
+
+Icon glyphs and console images from [OneTwo](https://github.com/bulkh/OneTwo) theme. Big shout out to bulkh!
 
 ### Download
 |Release      |Theme version                                                     |
