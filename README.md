@@ -4,25 +4,26 @@ Not a fancy theme, just a clean design of muOS standard layout with custom color
 |![Stock](/preview/layoutStock.png)|![Grid](/preview/layoutGrid.png)|![Console](/preview/layoutExplore.png)|
 |:---------------------------------|:-------------------------------|:-------------------------------------|
 
-### What this does
+### What this theme has (and doesn't)
 - [x] Clean aesthetics, stunning color palettes
 - [x] Fast theme switching between alternatives
-- [x] Support all device resolutions (include TUI-SP & TUI-Brick)
-- [x] Optimal font size for each resolutions
-- [x] Not language depend
+- [x] Support all device resolutions from MuOS, with optimal font size
+- [x] Support most MuOS configurations
+- [x] Not language dependent
+- [ ] Color images for Content Grid Artwork aren’t supported (theme recoloring require monochrome images)
 
 ### Color scheme & structure
 
-There are 10 color schemes. Scheme files is very customizable and easy to add new color sheme later on.
+There are 10 color schemes. Scheme files is very customizable and easy to add new color scheme later on.
 
-|Classic                                     |Colorful                                |Monochrome                              |
-|:-------------------------------------------|:---------------------------------------|:---------------------------------------|
-|![ClassicDark](/preview/ClassicDark.png)    |![Nightly](/preview/Nightly.png)        |![MonoBlack](/preview/MonoBlack.png)    |
-|![Mustard](/preview/Mustard.png)            |![TeamRed](/preview/TeamRed.png)        |![MonoWhite](/preview/MonoWhite.png)    |
-|![ClassicBright](/preview/ClassicLight.png) |![MonoPink](/preview/Pink.png)          |                                        |
-|![MonoGreen](/preview/GreenBoy.png)         |![TeamBlue](/preview/TeamBlue.png)      |                                        |
+|Classic                                     |Colorful                          |Monochrome                          |
+|:-------------------------------------------|:---------------------------------|:-----------------------------------|
+|![ClassicDark](/preview/ClassicDark.png)    |![Nightly](/preview/Nightly.png)  |![MonoBlack](/preview/MonoBlack.png)|
+|![Mustard](/preview/Mustard.png)            |![TeamRed](/preview/TeamRed.png)  |![MonoWhite](/preview/MonoWhite.png)|
+|![ClassicBright](/preview/ClassicLight.png) |![MonoPink](/preview/Pink.png)    |                                    |
+|![MonoGreen](/preview/GreenBoy.png)         |![TeamBlue](/preview/TeamBlue.png)|                                    |
 
-To customize or create your own color scheme, the colors and layout are separated into different files (as muOS recommends). You can use the [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing) as a guide. Below is the file structure and where to make changes.
+To customize or create your own color scheme, the colors and layout are separated into different files. You can use the [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing) as a guide. Below is the file structure and where to make changes.
 
 ```txt
 ...
