@@ -14,14 +14,14 @@ Not a fancy theme, just a clean design of muOS standard layout with custom color
 
 ### Color scheme & structure
 
-There are 10 color schemes. Scheme files is very customizable and easy to add new color scheme later on.
+There are 10 color schemes (4 coming soon). Scheme files is very customizable and easy to add new color scheme later on.
 
-|Classic                                     |Colorful                          |Monochrome                          |
-|:-------------------------------------------|:---------------------------------|:-----------------------------------|
-|![ClassicDark](/preview/ClassicDark.png)    |![Nightly](/preview/Nightly.png)  |![MonoBlack](/preview/MonoBlack.png)|
-|![Mustard](/preview/Mustard.png)            |![TeamRed](/preview/TeamRed.png)  |![MonoWhite](/preview/MonoWhite.png)|
-|![ClassicBright](/preview/ClassicLight.png) |![MonoPink](/preview/Pink.png)    |                                    |
-|![MonoGreen](/preview/GreenBoy.png)         |![TeamBlue](/preview/TeamBlue.png)|                                    |
+|![ClassicDark](/preview/ClassicDark.png)   |![Nightly](/preview/Nightly.png)    |![BluePrint](/preview/BluePrint.png)|
+|:------------------------------------------|:-----------------------------------|:-----------------------------------|
+|![ClassicBright](/preview/ClassicLight.png)|![NicePastel](/preview/NicePastel)  |![BlueSky](/preview/BlueSky.png)    |
+|![Mustard](/preview/Mustard.png)           |![PinkNeon](/preview/PinkNeon.png)  |![RedWine](/preview/RedWine.png)    |
+|![GreenBoy](/preview/GreenBoy.png)         |![PinkCandy](/preview/PinkCandy.png)|![Tomato](/preview/Tomato.png)      |
+|![JustBlack](/preview/JustBlack.png)       |![JustWhite](/preview/JustWhite.png)|                                    |
 
 To customize or create your own color scheme, the colors and layout are separated into different files. You can use the [Figma file](https://drive.google.com/file/d/1StkURvHPk3fyv9ksOYesrgm5YTDEbgNH/view?usp=sharing) as a guide. Below is the file structure and where to make changes.
 
